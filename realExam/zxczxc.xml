@@ -1,0 +1,7 @@
+- /mem/login => 로그인 화면으로의 연결 => 
+- /mem/insertForm =>회원가입 화면으로의 연결 => 
+- /mem/insertMember => 회원 가입 처리 후 특정화면으로 연결 =>
+- /mem/updateForm =>회원가입 수정폼 화면으로의 연결 =>
+- /mem/updateMember => 정보 수정 후 특정 화면으로 연결 =>
+- /mem/getMember =>회원 조회 후 특정 화면으로 연결 => 
+- /mem/memManagement => 회원 관리자 화면으로 연결(특정 조건에 따른 view & link) => 
